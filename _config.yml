@@ -9,10 +9,10 @@
 title: "Tutkimusblogi"
 email: "paspah@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
-  "Täällä pidän kirjaa tutkimusprosessini etenemisestä. Tavoitteena väitöskirja yhteiskuntatieteiden alalta.Tutkimuskohteena isyys." 
+  Täällä pidän kirjaa tutkimusprosessini etenemisestä. Tavoitteena väitöskirja yhteiskuntatieteiden alalta.Tutkimuskohteena isyys. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter: "@paspah"
+twitter: @paspah
 
 # Build settings
 markdown: kramdown
